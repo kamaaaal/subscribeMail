@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "user1",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    },
+    {
+        "name" : "user2",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    },
+    {
+        "name" : "user3",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    },
+    {
+        "name" : "user4",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    },
+    {
+        "name" : "user5",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    },
+    {
+        "name" : "user6",
+        "mail_id" : "itskamalmohamed@gmail.com",
+        "prefferedChannel" : "mail"
+    }
+]
